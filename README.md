@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Lohitha Sai Priya Devi 👋
 
-<!--
-**lohithaganireddi/lohithaganireddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE (AI & ML) Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I am a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy building software projects, learning new technologies, and solving real-world problems through programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+* Java
+* Python
+* SQL
+* Git & GitHub
+* Machine Learning
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Machine Learning
+* Software Development Practices
+
+## 🚀 Projects
+
+* Python Calculator
+* Student Management System (In Progress)
+* Machine Learning Projects (Coming Soon)
+
+## 🎯 Career Objective
+
+To build a strong foundation in software engineering and machine learning while contributing to innovative projects and gaining industry experience through internships and collaborative opportunities.
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/priya-ganireddi-ab6a992a0](http://www.linkedin.com/in/priya-ganireddi-ab6a992a0)
+
+## ⭐ Interests
+
+* Software Development
+* Artificial Intelligence & Machine Learning
+* Problem Solving
+* Continuous Learning
+
+Thanks for visiting my profile!
